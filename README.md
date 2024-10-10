@@ -1,2 +1,2 @@
 # OTUSInFeRseN
-Репозиторий для OTUS Python BAsic
+Репозиторий для OTUS Python Basic
